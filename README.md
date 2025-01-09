@@ -12,4 +12,4 @@
 
 ### Algorithm
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=pythonalgorithm})](https://solved.ac/pythonalgorithm)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=pythonalgorithm)](https://solved.ac/pythonalgorithm)
