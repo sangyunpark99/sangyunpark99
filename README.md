@@ -13,8 +13,3 @@
 ### Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pythonalgorithm)](https://solved.ac/pythonalgorithm)
-
-### Farm
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sangyunpark99"/>
-</a>
